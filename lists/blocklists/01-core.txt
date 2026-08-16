@@ -7,6 +7,10 @@
 ! Sintaxe AdGuard: ||dominio^ bloqueia o domínio e subdomínios.
 ! ============================================================
 
+! Todas as bets autorizadas no Brasil
+! Bloqueia bet.br e qualquer subdomínio:
+! kto.bet.br, betano.bet.br, blaze.bet.br, bet365.bet.br etc.
+||bet.br^
 ||vaidebet.bet.br^
 ||betpix365.bet.br^
 ||obabet.bet.br^
