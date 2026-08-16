@@ -1,0 +1,20 @@
+! ============================================================
+! Gambling TLDs
+! Bloqueia domínios inteiros de extensões fortemente
+! associadas a apostas/jogos de azar.
+! ============================================================
+
+! Qualquer domínio terminado em .bet
+/\.bet$/
+
+! Qualquer domínio terminado em .casino
+/\.casino$/
+
+! Qualquer domínio terminado em .poker
+/\.poker$/
+
+! Qualquer domínio terminado em .bingo
+/\.bingo$/
+
+! Qualquer domínio terminado em .lotto
+/\.lotto$/
