@@ -1,0 +1,20 @@
+! ============================================================
+! DontCallTheBets
+! Layer 02 - PRIVACY
+! Renegade-lists
+!
+! Trackers/telemetria que escaparam dos filtros padrão.
+! ============================================================
+
+! Google Analytics
+||click.googleanalytics.com^
+
+! Bugsnag
+||app.bugsnag.com^
+
+! Sentry
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+
+! TikTok
+||ads-api.tiktok.com^
