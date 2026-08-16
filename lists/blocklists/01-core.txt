@@ -1,0 +1,78 @@
+! ============================================================
+! DontCallTheBets
+! Layer 01 - CORE
+! Renegade-lists
+!
+! Bloqueio de domínios oficiais de plataformas de apostas.
+! Sintaxe AdGuard: ||dominio^ bloqueia o domínio e subdomínios.
+! ============================================================
+
+||vaidebet.bet.br^
+||betpix365.bet.br^
+||obabet.bet.br^
+||jogajunto.bet.br^
+||bra.bet.br^
+||xx.bet.br^
+||tropino.bet.br^
+||bz.bet.br^
+||55w.bet.br^
+||7games.bet.br^
+||betao.bet.br^
+||r7.bet.br^
+||kbet.bet.br^
+||nossa.bet.br^
+||1xbet.bet.br^
+||betcaixa.bet.br^
+||megabet.bet.br^
+||xbetcaixa.bet.br^
+||bau.bet.br^
+||milhao.bet.br^
+||jogalimpo.bet.br^
+||energia.bet.br^
+||mmabet.bet.br^
+||betvip.bet.br^
+||papigames.bet.br^
+||esportivavip.bet.br^
+||cbesportes.bet.br^
+||donosdabola.bet.br^
+||vert.bet.br^
+||cgg.bet.br^
+||fanbit.bet.br^
+||pix.bet.br^
+||ganhei.bet.br^
+||betdasorte.bet.br^
+||esporte365.bet.br^
+||betaki.bet.br^
+||jogodeouro.bet.br^
+||mcgames.bet.br^
+||play.bet.br^
+||montecarlos.bet.br^
+||luck.bet.br^
+||1pra1.bet.br^
+||start.bet.br^
+||meridianbet.bet.br^
+||pin.bet.br^
+||multi.bet.br^
+||rico.bet.br^
+||brx.bet.br^
+||aposta1.bet.br^
+||apostamax.bet.br^
+||aviao.bet.br^
+||bateu.bet.br^
+||esportiva.bet.br^
+||a247.bet.br^
+||versus.bet.br^
+||betcopa.bet.br^
+||brasildasorte.bet.br^
+||fybet.bet.br^
+||bet4.bet.br^
+||aposta.bet.br^
+||fazo.bet.br^
+||blaze.bet.br^
+||jonbet.bet.br^
+||betwarrior.bet.br^
+||drbingo.bet.br^
+||betgorillas.bet.br^
+||betbuffalos.bet.br^
+||betfalcons.bet.br^
+||betano.bet.br^
